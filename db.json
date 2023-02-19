@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Abasa Kata 1.1",
-      "artis": "Imam Mishary",
+      "artist": "Imam Mishary",
       "album": "skata",
       "track": "kataPlay",
       "year": 2022,
@@ -13,7 +13,7 @@
      {
       "id": 1,
       "title": "Abasa Kata 1.2",
-      "artis": "Imam Mishary",
+      "artist": "Imam Mishary",
       "album": "kata",
       "track": "kataPlay",
       "year": 2022,
