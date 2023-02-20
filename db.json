@@ -4,21 +4,41 @@
       "id": 1,
       "title": "Abasa Kata 1.1",
       "artist": "Imam Mishary",
-      "album": "skata",
+      "album": "kata",
       "track": "kataPlay",
       "year": 2022,
-      "img_src": "https://github.com/restuA-S7/ayat/raw/main/islmai.jpg",
-      "src": "https://github.com/restuA-S7/ayat/raw/main/1.1.mp3"
+      "img_src": "https://github.com/restuA-S7/katadb/raw/main/islmai.jpg",
+      "src": "https://github.com/restuA-S7/katadb/raw/main/1.1.mp3"
     },
-     {
+    {
       "id": 2,
       "title": "Abasa Kata 1.2",
       "artist": "Imam Mishary",
       "album": "kata",
       "track": "kataPlay",
       "year": 2022,
-      "img_src": "https://github.com/restuA-S7/ayat/raw/main/islmai2.jpg",
-      "src": "https://github.com/restuA-S7/ayat/raw/main/1.2.mp3"
+      "img_src": "https://github.com/restuA-S7/katadb/raw/main/islmai2.jpg",
+      "src": "https://github.com/restuA-S7/katadb/raw/main/1.2.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Abasa Kata 2.1",
+      "artist": "Imam Mishary",
+      "album": "kata",
+      "track": "kataPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/katadb/raw/main/islmai.jpg",
+      "src": "https://github.com/restuA-S7/katadb/raw/main/2.1.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Abasa Kata 2.2",
+      "artist": "Imam Mishary",
+      "album": "kata",
+      "track": "kataPlay",
+      "year": 2022,
+      "img_src": "https://github.com/restuA-S7/katadb/raw/main/islmai2.jpg",
+      "src": "https://github.com/restuA-S7/katadb/raw/main/2.2.mp3"
     }
   ],
   "profile": {
